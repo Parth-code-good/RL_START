@@ -1,14 +1,23 @@
-#RL_START_Journey_by_MFAI_Project
-The codes have an extensive use of gpt, yet a through project design, algorithmic understanding, good results.
-The work distribution are as follows:
-Creating the simple and complex enviornments:Parth Shah
-Metrics extraction and PLotting codes:Brijesh
-Q-learning and Double-Q learning:Rupak
-Sarsa And Monte-Carlo-First-Visit:Brijesh[ for simple and complex enviornment]
-Deep Q and Double Deep Q learning:Parth
-The findings are there in the report.pdf file in the github repository.
-We are open for a viva, to explain our learnings better and for validation.
-Acknowledging Professors And TAs.
+# RL_START_Journey_by_MFAI_Project
 
+## Project Description
+This project represents a comprehensive journey into Reinforcement Learning. While the codebase leverages GPT for implementation support, the project is built upon **thorough project design, deep algorithmic understanding, and rigorous result verification**.
 
+## 👥 Work Distribution
 
+| Team Member | Responsibilities | Algorithms Implemented |
+| :--- | :--- | :--- |
+| **Parth Shah** | • Creating Simple & Complex Environments<br>• Deep Q-Learning (DQN)<br>• Double Deep Q-Learning (DDQN) | • DQN<br>• DDQN |
+| **Brijesh** | • Metrics Extraction & Plotting Codes<br>• Sarsa (Simple & Complex)<br>• Monte-Carlo First-Visit (Simple & Complex) | • Sarsa<br>• Monte-Carlo First-Visit |
+| **Rupak** | • Q-Learning<br>• Double Q-Learning | • Q-Learning<br>• Double Q-Learning |
+
+## 📄 Documentation & Findings
+Detailed findings, experimental results, and analysis are documented in the **`report.pdf`** file located in the GitHub repository.
+
+## 🎓 Validation & Acknowledgments
+
+### Viva Voce
+We are open to a viva session to further explain our learnings, methodology, and validate the project outcomes.
+
+### Acknowledgments
+We explicitly acknowledge and thank our **Professors and Teaching Assistants** for their guidance and support throughout this project.
