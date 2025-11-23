@@ -7,7 +7,7 @@ This project represents a comprehensive journey into Reinforcement Learning. Whi
 
 | Team Member | Responsibilities | Algorithms Implemented |
 | :--- | :--- | :--- |
-| **Parth Shah** | • Creating Simple & Complex Environments<br>• Deep Q-Learning (DQN)<br>• Double Deep Q-Learning (DDQN) | • DQN<br>• DDQN |
+| **Parth** | • Creating Simple & Complex Environments<br>• Deep Q-Learning (DQN)<br>• Double Deep Q-Learning (DDQN) | • DQN<br>• DDQN |
 | **Brijesh** | • Metrics Extraction & Plotting Codes<br>• Sarsa (Simple & Complex)<br>• Monte-Carlo First-Visit (Simple & Complex) | • Sarsa<br>• Monte-Carlo First-Visit |
 | **Rupak** | • Q-Learning<br>• Double Q-Learning | • Q-Learning<br>• Double Q-Learning |
 
